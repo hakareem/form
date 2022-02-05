@@ -5,7 +5,7 @@ This is a survey used to collect data. It is targeted at one of the project that
 
 
 # Areas for improvement 
-• Explain how feedback will impact the game
-• Use closed ended questions
-• Keep it short and focused
+• Explain how feedback will impact the game <br>
+• Use closed ended questions <br>
+• Keep it short and focused <br>
 • Keep questions simple
